@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mortgagetool/static/css/main.64cad7bf.css",
-    "main.js": "/mortgagetool/static/js/main.538460fe.js",
-    "static/js/453.6c8033c1.chunk.js": "/mortgagetool/static/js/453.6c8033c1.chunk.js",
-    "static/media/pacific-financial-logo.jpg": "/mortgagetool/static/media/pacific-financial-logo.da66c770fd221abf7566.jpg",
-    "index.html": "/mortgagetool/index.html",
-    "main.64cad7bf.css.map": "/mortgagetool/static/css/main.64cad7bf.css.map",
-    "main.538460fe.js.map": "/mortgagetool/static/js/main.538460fe.js.map",
-    "453.6c8033c1.chunk.js.map": "/mortgagetool/static/js/453.6c8033c1.chunk.js.map"
+    "main.css": "/mortgagetool/tree/tool/pfmcal/static/css/main.64cad7bf.css",
+    "main.js": "/mortgagetool/tree/tool/pfmcal/static/js/main.039c6466.js",
+    "static/js/453.6c8033c1.chunk.js": "/mortgagetool/tree/tool/pfmcal/static/js/453.6c8033c1.chunk.js",
+    "static/media/pacific-financial-logo.jpg": "/mortgagetool/tree/tool/pfmcal/static/media/pacific-financial-logo.da66c770fd221abf7566.jpg",
+    "index.html": "/mortgagetool/tree/tool/pfmcal/index.html",
+    "main.64cad7bf.css.map": "/mortgagetool/tree/tool/pfmcal/static/css/main.64cad7bf.css.map",
+    "main.039c6466.js.map": "/mortgagetool/tree/tool/pfmcal/static/js/main.039c6466.js.map",
+    "453.6c8033c1.chunk.js.map": "/mortgagetool/tree/tool/pfmcal/static/js/453.6c8033c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64cad7bf.css",
-    "static/js/main.538460fe.js"
+    "static/js/main.039c6466.js"
   ]
 }
